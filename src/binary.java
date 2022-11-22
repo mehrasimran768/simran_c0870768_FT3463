@@ -9,7 +9,7 @@ public class binary extends arithmeticExp{
         }
 
         @Override
-        public String evaluate() {
+        public String Evaluate() {
             return "";
         }
     }

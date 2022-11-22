@@ -3,7 +3,7 @@ public class sum extends binary{
         super(newLeft, newRight);
     }
     @Override
-    public String evaluate() {
+    public String Evaluate() {
         return "";
     }
 }

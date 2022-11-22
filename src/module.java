@@ -5,7 +5,7 @@ public class module extends binary {
     }
 
     @Override
-    public String evaluate() {
+    public String Evaluate() {
         return "";
     }
 

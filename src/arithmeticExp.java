@@ -1,6 +1,6 @@
 public abstract class arithmeticExp
 {
 
-    public abstract String evaluate();
+    public abstract String Evaluate();
 
 }
